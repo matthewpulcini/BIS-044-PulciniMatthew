@@ -14,5 +14,5 @@ for (i in 1:n) {
 o_counter <- o_counter + 1
 m_counter <- m_counter - 1
 
-cat(" Obama:",o_counter,"\n","McCain:",m_counter)
-
+o_counter <- o_counter + 1
+m_counter <- m_counter - 1
